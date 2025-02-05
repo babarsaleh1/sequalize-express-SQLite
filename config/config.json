@@ -24,3 +24,4 @@
         "storage": "./data/database.sqlite"
     }
 }
+"storage": "./data/database.sqlite.updated"
